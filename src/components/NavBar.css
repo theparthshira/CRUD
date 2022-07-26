@@ -1,0 +1,15 @@
+.NavBar-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.NavBar-item {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.dashboard-main {
+    margin-top: -400px;
+    font-size: 10px;
+}
